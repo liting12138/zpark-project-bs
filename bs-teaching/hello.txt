@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 iimm
 I am boy!
 we are family!
+=======
+hjjjdnbd
+ we are family!
+ you are beautiful!
+>>>>>>> dev01
 
